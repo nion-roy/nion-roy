@@ -15,6 +15,4 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Photoshop / Illustrator <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nion-roy&layout=compact)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nion-roy&show_icons=true&locale=en&layout=compact" alt="nion-roy" /></p>
