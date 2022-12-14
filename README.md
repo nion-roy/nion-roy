@@ -14,6 +14,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ## 👨‍💻 Skills & Experiance: 
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ PHP / MySQL / Laravel Framework <br>
 ✅ Photoshop / Illustrator <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nion-roy&show_icons=true&locale=en&layout=compact" alt="nion-roy" /></p>
 
