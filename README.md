@@ -1,7 +1,7 @@
 ## Hi, I'm Nion Chandra Roy 👋
 
 <p>
-👑 I am Full-Stack Developer <br> 
+👑 I am Full-Stack Web Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
