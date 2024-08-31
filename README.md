@@ -7,7 +7,7 @@
 
 
 ## 🚀 About Me
-I’m a Full-Stack Developer who is passionate about making error-free websites with 100%. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication.
+I’m a Full-Stack Laravel Developer who is passionate about making error-free websites with 100%. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication.
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ JavaScript / jQuery / Ajax <br>
